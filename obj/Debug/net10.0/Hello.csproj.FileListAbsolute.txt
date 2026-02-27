@@ -1,0 +1,14 @@
+/home/kostadin/projects/net/Hello/bin/Debug/net10.0/Hello
+/home/kostadin/projects/net/Hello/bin/Debug/net10.0/Hello.deps.json
+/home/kostadin/projects/net/Hello/bin/Debug/net10.0/Hello.runtimeconfig.json
+/home/kostadin/projects/net/Hello/bin/Debug/net10.0/Hello.dll
+/home/kostadin/projects/net/Hello/bin/Debug/net10.0/Hello.pdb
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/Hello.AssemblyInfoInputs.cache
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/Hello.AssemblyInfo.cs
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/Hello.csproj.CoreCompileInputs.cache
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/Hello.dll
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/refint/Hello.dll
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/Hello.pdb
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/Hello.genruntimeconfig.cache
+/home/kostadin/projects/net/Hello/obj/Debug/net10.0/ref/Hello.dll
